@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Hi,%20I'm%20Yoojin%20Che&animation=&fontColor=000000&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Hi,%20I'm%20Yoojin%20Che&animation=&fontColor=000000&fontSize=60" />
 </div>
     <div> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;" align= "center"> About Me </h2>  
